@@ -3,4 +3,4 @@ This is a repository of my previous VEX IQ Projects that I have done in the 2021
 
 ![IQ Test Bed](./images/IQ_Test_Bed.png)
 ![IQ Bumper With Touch LED Program Sample](./images/Vex_IQ_Bumper_with_Touch_LED_Program.png)
-![Clawbot IQ Demo](https://drive.google.com/file/d/1X2M5UyhJu9hZwAhjyqwEVI4ogknuKcij/preview))
+[Clawbot IQ Demo](https://drive.google.com/file/d/1X2M5UyhJu9hZwAhjyqwEVI4ogknuKcij/preview)
